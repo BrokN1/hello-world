@@ -6,3 +6,4 @@ This repository is built step by step in the tutorial.
 
 Am modificat asta.
 Si asta.
+Si am ajuns la push.
